@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Kapadnis</h1>
-<h3 align="center">A Engineering student from India. A newbie Computer Programmer and Pythonista </h3>
+<h3 align="center">A Software Engineer from India. A newbie Computer Programmer and Pythonista </h3>
 
 - 📫 How to reach me **prkapadnis2001@gmail.com**
 
